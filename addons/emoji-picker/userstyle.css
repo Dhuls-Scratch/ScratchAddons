@@ -20,15 +20,19 @@
 
 .sa-emoji-button-r2 .sa-emoji-picker:not(.sa-emoji-picker-offscreen) {
   top: 33px;
+  font-weight: normal;
 }
 .sa-emoji-button-www .sa-emoji-picker:not(.sa-emoji-picker-offscreen) {
   top: calc(11rem + 5px);
+  font-weight: normal;
 }
 .sa-emoji-button-r2 .sa-emoji-picker.sa-emoji-picker-offscreen {
   bottom: 35px;
+  font-weight: normal;
 }
 .sa-emoji-button-www .sa-emoji-picker.sa-emoji-picker-offscreen {
   bottom: 52px;
+  font-weight: normal;
 }
 
 .sa-emoji-picker-item {
